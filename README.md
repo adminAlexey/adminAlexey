@@ -2,13 +2,13 @@
 
 ## Hard Skills
 
-Back-end: `FastAPI` `Flask` `SQLAlchemy` `LangChain` `LangGraph` `Requests` `Git` `REST API`
-Front-end: `VUE3` `ReactJS` `Streamlit`
-Data Analysis: `Pandas` `Numpy` `Plotly`
-Databases: `PostgreSQL` `Greenplum` `Hadoop`
-UI / Automation: `Selenium` `Pygame` `Tkinter` `Pyautogui`
-Visualization: `NetworkX` `Pyvis` `Folium` `Leaflet`
-Other: `Jinja2` `Jupyter Notebook` `Hue` `Spark` `ast` `docxtpl` `extract_msg` `parso` `PyTelegramBotAPI`
+Back-end: `FastAPI` `Flask` `SQLAlchemy` `LangChain` `LangGraph` `Requests` `Git` `REST API`  
+Front-end: `VUE3` `ReactJS` `Streamlit`  
+Data Analysis: `Pandas` `Numpy` `Plotly`  
+Databases: `PostgreSQL` `Greenplum` `Hadoop`  
+UI / Automation: `Selenium` `Pygame` `Tkinter` `Pyautogui`  
+Visualization: `NetworkX` `Pyvis` `Folium` `Leaflet`  
+Other: `Jinja2` `Jupyter Notebook` `Hue` `Spark` `ast` `docxtpl` `extract_msg` `parso` `PyTelegramBotAPI`  
 
 ## Experience
 
